@@ -3,6 +3,7 @@
   <head>
   </head>
   <body>
-    <p>Hello</p>
+    <a href="index.php">Home Page</a>
+    <a href="image2.php">Next</a>
   </body>
 </html>
