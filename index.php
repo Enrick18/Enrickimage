@@ -6,8 +6,10 @@
   <body>
     <h3 align="center">Gornez, John Enrick Photo Gallery</h3>
     <p align="center">List of Photos</p>
-    <a href="#" align="center">Image 1</a>
-    <a href="#" align="center">Image 2</a>
-    <a href="#" align="center">Image 3</a>
+    <main align="center">
+    <a href="#">Image 1</a>
+    <a href="#">Image 2</a>
+    <a href="#">Image 3</a>
+    </main>
   </body>
 </html>
