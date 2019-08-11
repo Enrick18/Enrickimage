@@ -7,7 +7,7 @@
     <h3 align="center">Gornez, John Enrick Photo Gallery</h3>
     <p align="center">List of Photos</p>
     <main align="center">
-    <a href="#">Image 1</a><br>
+    <a href="image1.php">Image 1</a><br>
     <a href="#">Image 2</a><br>
     <a href="#">Image 3</a>
     </main>
