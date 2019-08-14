@@ -10,6 +10,8 @@
     <a href="image1.php">Image 1</a><br>
     <a href="image2.php">Image 2</a><br>
     <a href="image3.php">Image 3</a>
+    <br>
+      <a href="index.php">Logout</a>
     </main>
   </body>
 </html>
