@@ -7,7 +7,7 @@
  <h3 align="center">Gornez, John Enrick Digi Art Gallery</h3>
  <main align="center">
  <h2>Login Here</h2>
- <form action="gallery.php" align="center">
+ <form action="welcome.php" align="center">
  <p><b>Username</b></p>
  <input type="text" name="" placeholder="Username" required>
  <p><b>Password</b></p>
