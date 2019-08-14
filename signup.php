@@ -8,6 +8,10 @@
  <form action="gallery.php" align="center">
  <p><b>Create Username</b></p>
  <input type="text" name="" placeholder="Username" required>
+  <p><b>Email</b></p>
+ <input type="text" name="" placeholder="Enter email" required>
+  <p><b>Confirm Email</b></p>
+ <input type="text" name="" placeholder="confirm email" required>
  <p><b>Create Password</b></p>
  <input type="text" name="" placeholder="Password" required>
  <p><b>Confirm Password</b></p>
