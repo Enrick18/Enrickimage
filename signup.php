@@ -5,7 +5,7 @@
 </head>
 <body>
  <h3 align="center">Gornez, John Enrick Digi Art Gallery</h3>
- <form action="gallery.php" align="center">
+ <form action="welcome.php" align="center">
  <p><b>Create Username</b></p>
  <input type="text" name="" placeholder="Username" required>
   <p><b>Email</b></p>
