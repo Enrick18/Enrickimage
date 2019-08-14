@@ -17,5 +17,10 @@
  <a href="signup.php">Don't have an account yet?</a>
   <a href="forgotpassword.php">Reset password</a>
  </main>
+ <footer>
+  <p>Posted by: JEGornez</p>
+  <p>Contact information: <a href="mailto:johngorns@gmail.com">
+  johngorns@gmail.com</a>.</p>
+</footer>
 </body>
 </html>
