@@ -15,7 +15,7 @@
  <button type="submit">Login</button>
  </form>
  <a href="signup.php">Don't have an account yet?</a>
- <a href="forgotpassword.php"Forgot Password?</a>
+  <a href="forgotpassword.php">Reset password</a>
  </main>
 </body>
 </html>
