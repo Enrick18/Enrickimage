@@ -2,10 +2,12 @@
 <html>
 <head>
 <title>Login</title>
+ <link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
  <h3 align="center">Gornez, John Enrick Digi Art Gallery</h3>
- <main align="center">
+ <div class="container">
+ <div class="box-1">
  <h2>Login Here</h2>
  <form action="welcome.php" align="center">
  <p><b>Username</b></p>
@@ -16,7 +18,8 @@
  </form>
  <a href="signup.php">Don't have an account yet?</a>
   <a href="forgotpassword.php">Reset password</a>
- </main>
+ </div>
+ </div>
  <footer align="center">
   <p>Posted by: JEGornez</p>
   <p>Contact information: <a href="mailto:johngorns@gmail.com">
