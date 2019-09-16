@@ -24,6 +24,7 @@
  <form action="index.php" align="center">
  <label for="uname"><b>New password</b></label>
  <input type="text" name="password" placeholder="Password" required>
+  <br>
  <label for="uname"><b>Confirm password</b></label>
  <input type="text" name="password" placeholder="Password" required>
   <button type="submit">Reset</button>
