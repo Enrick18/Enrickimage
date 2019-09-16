@@ -25,6 +25,7 @@ body{
 }
 
 a{
+  padding:25px;
   text-align:center;
   text-decoration: none;
   background-color: white;
