@@ -2,9 +2,23 @@
 <html>
 <head>
 <title>Login</title>
-</head>
+  <style>
+   .box-1{
+  text-align:center;
+  background-color:#333;
+  color:white;
+  
+  border-right: 10px red solid;
+  border-left: 10px red solid;
+  
+  padding:25px;
+  margin:20px;
+ }
+ </style>
+ </head>
 <body>
- <h3 align="center">Gornez, John Enrick Digi Art Gallery</h3>
+ <div class="box-1">
+ <h3>Gornez, John Enrick Digi Art Gallery</h3>
  <form action="welcome.php" align="center">
  <p><b>Create Username</b></p>
  <input type="text" name="" placeholder="Username" required>
@@ -17,5 +31,7 @@
  <p><b>Confirm Password</b></p>
  <input type="text" name="" placeholder="Password" required>
  <button type="submit">Create account</button>
+  </form>
+ </div>
 </body>
 </html>
