@@ -18,8 +18,10 @@
   <br>
   <br>
  </form>
+  <div style="text-align:center">
  <a href="signup.php">Don't have an account yet?</a>
   <a href="forgotpassword.php">Reset password</a>
+  </div>
  </div>
  </div>
  <footer align="center">
