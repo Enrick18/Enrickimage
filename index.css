@@ -14,4 +14,12 @@ body{
   
   border-right: 5px red solid;
   border-left: 5px red solid;
+  
+  padding:40px;
+  margin:20px;
+}
+
+.box-1 h2{
+  font-family: Arial,georgia,sans-serif;
+  text-align:center;
 }
