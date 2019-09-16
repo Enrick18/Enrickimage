@@ -2,6 +2,12 @@
 <html>
 <head>
 <title>Welcome</title>
+  <style>
+    h1{
+      color:red;
+      font-family:Arial,serif,sans-serif;
+    }
+  </style>
 </head>
 <body>
 <main align="center">
