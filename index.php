@@ -15,6 +15,8 @@
  <p><b>Password</b></p>
  <input type="text" name="" placeholder="Password" required>
  <button type="submit">Login</button>
+  <br>
+  <br>
  </form>
  <a href="signup.php">Don't have an account yet?</a>
   <a href="forgotpassword.php">Reset password</a>
